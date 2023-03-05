@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -SpaceX-capstone-project-IBM    |  -Determining if the falcon 9 first stage can be reused             | https://github.com/GeorgeEliWilliams/SpaceX-capstone-project-IBM.git      |
+| 2 |  -mortgage-calculator             |  -a python code that calculates the total monthly payment after a loan             | https://github.com/GeorgeEliWilliams/mortgage-calculator.git       |
+| 3 |  -net-revenue-project             |  -this notebook gives a breakdown of the net revenue a shop is left with after a discount on their prices             | https://github.com/GeorgeEliWilliams/net-revenue-project.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
